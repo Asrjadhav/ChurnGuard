@@ -12,8 +12,8 @@ This project includes:
 
 Dashboard overview:
 
-("C:\Users\aditi\Downloads\111.jpeg")
+(C:\Users\aditi\Downloads\111.jpeg)
 
-("C:\Users\aditi\Downloads\112.jpeg")
+(C:\Users\aditi\Downloads\112.jpeg)
 
-("C:\Users\aditi\Downloads\113.jpeg")
+(C:\Users\aditi\Downloads\113.jpeg)
