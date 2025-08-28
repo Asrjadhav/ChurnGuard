@@ -14,6 +14,6 @@ Dashboard overview:
 
 ![image alt](https://github.com/Asrjadhav/ChurnGuard/blob/main/images/111.jpeg?raw=true)
 
-![image alt]("C:\Users\aditi\Downloads\112.jpeg")
+![image alt](https://github.com/Asrjadhav/ChurnGuard/blob/main/images/112.jpeg?raw=true)
 
 ![image alt]("C:\Users\aditi\Downloads\113.jpeg")
