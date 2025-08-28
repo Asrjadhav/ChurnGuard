@@ -12,8 +12,8 @@ This project includes:
 
 Dashboard overview:
 
-(111.jpeg)
+![image alt]("C:\Users\aditi\Downloads\111.jpeg")
 
-(112.jpeg)
+![image alt]("C:\Users\aditi\Downloads\112.jpeg")
 
-(113.jpeg)
+![image alt]("C:\Users\aditi\Downloads\113.jpeg")
