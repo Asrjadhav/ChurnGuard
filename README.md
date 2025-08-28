@@ -12,7 +12,7 @@ This project includes:
 
 Dashboard overview:
 
-![image alt]("C:\Users\aditi\Downloads\111.jpeg")
+![image alt](https://github.com/Asrjadhav/ChurnGuard/blob/main/images/111.jpeg?raw=true)
 
 ![image alt]("C:\Users\aditi\Downloads\112.jpeg")
 
