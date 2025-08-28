@@ -1,4 +1,4 @@
-![112](https://github.com/user-attachments/assets/dff68f5a-95d7-4667-9e5f-9df80407d47a)# Churn Analysis 
+# Churn Analysis 
 In this complete CHURN ANALYSIS project using SQL Server, Power BI & Python, it includes
 
 This project includes:
