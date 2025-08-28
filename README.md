@@ -1,1 +1,19 @@
-# ChurnGuard
+![112](https://github.com/user-attachments/assets/dff68f5a-95d7-4667-9e5f-9df80407d47a)# Churn Analysis 
+In this complete CHURN ANALYSIS project using SQL Server, Power BI & Python, it includes
+
+This project includes:
+
+1. ETL process in SQL Server
+2. Data Cleaning in SQL Server
+3. Power BI Transformations
+4. Power BI Visualization & Enhancing Visuals
+5. Build Machine Learning Model - Random Forest in Jupyter Notebook
+6. Visualize Predicted Data in Power BI - Predicted Churner Profile
+
+Dashboard overview:
+
+("C:\Users\aditi\Downloads\111.jpeg")
+
+("C:\Users\aditi\Downloads\112.jpeg")
+
+("C:\Users\aditi\Downloads\113.jpeg")
